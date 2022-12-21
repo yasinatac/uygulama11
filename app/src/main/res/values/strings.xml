@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gorseldegistir</string>
+    <string name="lerigitme">İleriGitme</string>
+    <string name="bilgi">Bilgi</string>
+    <string name="gerigelme">GeriGelme</string>
+    <string name="todo">TODO</string>
+</resources>
